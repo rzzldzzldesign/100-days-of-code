@@ -1,30 +1,16 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: April 18—2020
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**💅PROGRESS**: DAY 0 BABY! Worked on a lesson (day 5) from [Kevin Powell](https://www.kevinpowell.co/)'s course about Conquering Responsive Design.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**🤔LEARNINGS:** The web is inherently responsive! Learned about implementing variable fonts for the first time:
 
-**Link to work:** [Calculator App](http://www.example.com)
+This dynamic typography uses continuous ranges of styles, offering all the weights between 100 and 900 on a page, and responsively varying the weight based on some conditions.
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+To request a range of a variable font axis, join the 2 values with `..`
+[LINK](https://developers.google.com/fonts/docs/css2#axis_ranges)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+Experimented with a fun animated hover state on the button. Also set up this git repo and learning how to write markdown!
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**🌐LINK:** [Conquering Responsive Design](https://conquering-responsive-design.netlify.app/)
