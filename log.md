@@ -12,7 +12,7 @@
 
 Experimented with a fun animated hover state on the button. Also set up this git repo and learning how to write markdown!
 
-**🌐LINK:** [Conquering Responsive Design](https://conquering-responsive-design.netlify.app/)
+**🌐LINK:** [Conquering Responsive Design](https://github.com/rzzldzzldesign/conquering-responsive-design/commit/d52e3b2597a4e50571a3b96a4585da91509e32c1) 1.0
 
 ## Day 1: April 19—2020
 
@@ -21,3 +21,11 @@ Experimented with a fun animated hover state on the button. Also set up this git
 **🤔LEARNINGS:** Changing values of properties within an object mutates the original object which can cause bugs. When modifying obkects make sure to create a copy of the original using the `...` spread operator.
 
 **🌐LINK:** No link today as its all just taking lessons.
+
+## Day 2: April 20—2020
+
+**💅PROGRESS**: Got [Kevin Powell](https://www.kevinpowell.co/)'s solution to the responsive challange from day 0. Rewrote some of my Conquering Responsive site to work a bit better. Then went on and added a CSS only animated slide out menu on a [tutorial from fireship.io](https://www.youtube.com/watch?v=biOMz4puGt8&t=206s)
+
+**🤔LEARNINGS:** Slide out menu can be made from pure CSS! No JS needed. Fixing menu to bottom of the screen on mobile is good for usablity. [Font-awesome](https://fontawesome.com/icons?d=gallery) has a whole bunch of SVG icons now.
+
+**🌐LINK:** [Conquering Responsive Design](https://conquering-responsive-design.netlify.app/) 2.0
