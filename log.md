@@ -30,7 +30,7 @@ Experimented with a fun animated hover state on the button. Also set up this git
 
 **🌐LINK:** [Conquering Responsive Design](https://web.archive.org/web/20200420223551/https://conquering-responsive-design.netlify.app/) 2.0
 
-## Day 3: April 20—2020
+## Day 3: April 21—2020
 
 **💅PROGRESS**: JAM—STACK = *J*AVASCRIPT *A*PIS + *M*ARKDOWN!
 
