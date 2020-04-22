@@ -39,3 +39,11 @@
 * [Log - click here to see my progress](log.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
+
+## Day xxx: April xx—2020
+
+**💅PROGRESS:**
+
+**🤔LEARNINGS:**
+
+**🌐LINK:**
