@@ -1,8 +1,16 @@
 # 100 Days Of Code - Log
 
+## Day006: April 24—2020
+
+**💅PROGRESS:** Day 11 and flexbox challenge 3 of [Kevin Powell](https://www.kevinpowell.co/)'s course. Added a simple navigation and used flexbox to push two sub navigations to either side of the container.
+
+**🤔LEARNINGS:** Pretty simple addition today so nothing too new. Added some semantic HTML to the 002 page with `<main>` and `<aside>` tags to replace `<divs>` Would be good to learn all that a little better.
+
+**🌐LINK:** [Conquering Responsive Design](https://conquering-responsive-design.netlify.app/flexbox3.html) 5.0
+
 ## Day 005: April 23—2020
 
-**💅PROGRESS:** Break day from Kevins Course, followed along with tutorials: [FLEXBOX CONTAINERS](https://www.youtube.com/watch?v=hwbqquXww-U&list=PL4-IK0AVhVjMSb9c06AjRlTpvxL3otpUd&index=2&t=0s) [FLEX ITEMS](https://www.youtube.com/watch?v=4Oi5xpjoCRk&list=PL4-IK0AVhVjMSb9c06AjRlTpvxL3otpUd&index=2) + [MIN() MAX() CLAMP()](https://www.youtube.com/watch?v=U9VF-4euyRo)
+**💅PROGRESS:** Break day from Kevins Course, followed along with tutorials: [FLEXBOX CONTAINERS](https://www.youtube.com/watch?v=hwbqquXww-U&list=PL4-IK0AVhVjMSb9c06AjRlTpvxL3otpUd&index=2&t=0s) AND [FLEX ITEMS](https://www.youtube.com/watch?v=4Oi5xpjoCRk&list=PL4-IK0AVhVjMSb9c06AjRlTpvxL3otpUd&index=2) AND ALSO [MIN() MAX() CLAMP()](https://www.youtube.com/watch?v=U9VF-4euyRo)
 
 **🤔LEARNINGS:**
 
@@ -11,7 +19,7 @@
 #### Flex-Container
 
 `align-items: baseline` Aligns first row of text along its baseline. Ie when you have different font-sizes on two flex items.
-`align-content: (same and justify-content)` Spaces things along the cross axis if there are multiple lines of content, ie wrapping items with flex: wrap.
+`align-content: (same as justify-content)` Spaces things along the cross axis if there are multiple lines of content, ie wrapping items with flex: wrap.
 Default: `align-items: stretch`
 
 #### Flex-Items
