@@ -1,5 +1,45 @@
 # 100 Days Of Code - Log
 
+## Day 005: April 23—2020
+
+**💅PROGRESS:** Break day from Kevins Course, followed along with tutorials: [FLEXBOX CONTAINERS](https://www.youtube.com/watch?v=hwbqquXww-U&list=PL4-IK0AVhVjMSb9c06AjRlTpvxL3otpUd&index=2&t=0s) [FLEX ITEMS](https://www.youtube.com/watch?v=4Oi5xpjoCRk&list=PL4-IK0AVhVjMSb9c06AjRlTpvxL3otpUd&index=2) + [MIN() MAX() CLAMP()](https://www.youtube.com/watch?v=U9VF-4euyRo)
+
+**🤔LEARNINGS:**
+
+### FLEXBOX
+
+#### Flex-Container
+
+`align-items: baseline` Aligns first row of text along its baseline. Ie when you have different font-sizes on two flex items.
+`align-content: (same and justify-content)` Spaces things along the cross axis if there are multiple lines of content, ie wrapping items with flex: wrap.
+Default: `align-items: stretch`
+
+#### Flex-Items
+
+`flex-grow: X` Fill the available space of the parent container. Overwrites `flex-basis` size also. Larger the number the faster it grows in relation to other items. If set to `0` it will hold the `flex-basis` size if there is enough available space.
+
+`flex-shrink: X` Defines the ratio of shrinking in relation to other items.
+
+`flex-basis: X` Ideal size, ie 250px will hold this width if there is enough available space, but shrink/grow if they are defined.
+
+Shorthand: `flex: (flex-grow) (flex-shrink) (flex-basis)` on one line.
+Default: `flex: 1 1 XXpx` grow: 1 / shrink: 1 / size
+
+`align-self: value` Overwrite the Flex Container and go where you please!
+
+`order: X` Explicitly set an order. 0 is the default and won't move the item. Can be defined on all items to set the order.
+
+#### Min() Max() + Clamp()
+
+`min(x, y)` Use to set variable sizes on elements within a range of values.
+IE `width: min(500px, 70%)` Whichever is the *smallest* of the 2 values will set the width. Similar to writing `width: 70%; max-width: 500px;` but all in one line.
+
+`max(x, y)` Similar but computes whichever value is *larger* between the two. Can be used with three values also but gets confusing.
+
+`clamp(x, y, z)` Takes three values: x: minimum value, y: ideal value, z: maximum value. Could be an issue when used for widths due to mobile screen sizes but experiment with for font-sizes!
+
+**🌐LINK:** No link today as its all just taking lessons.
+
 ## Day 004: April 22—2020
 
 **💅PROGRESS:** Built Day 009 of [Kevin Powell](https://www.kevinpowell.co/)'s course. Fun fun! Diving deeper into flexbox and how it handles images.
