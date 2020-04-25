@@ -1,12 +1,20 @@
 # 100 Days Of Code - Log
 
-## Day006: April 24—2020
+## Day 007: April 25—2020
+
+**💅PROGRESS:** Day 12 of [Kevin Powell](https://www.kevinpowell.co/)'s course. Made another fairly simple responsive layout from scratch using flexbox.
+
+**🤔LEARNINGS:** Centering things is easy as pie with flexbox. Reiterated what I've been learning on the course and got some good practice in.
+
+**🌐LINK:** [Conquering Responsive Design](https://conquering-responsive-design.netlify.app/flexbox4.html) 5.0
+
+## Day 006: April 24—2020
 
 **💅PROGRESS:** Day 11 and flexbox challenge 3 of [Kevin Powell](https://www.kevinpowell.co/)'s course. Added a simple navigation and used flexbox to push two sub navigations to either side of the container.
 
 **🤔LEARNINGS:** Pretty simple addition today so nothing too new. Added some semantic HTML to the 002 page with `<main>` and `<aside>` tags to replace `<divs>` Would be good to learn all that a little better.
 
-**🌐LINK:** [Conquering Responsive Design](https://conquering-responsive-design.netlify.app/flexbox3.html) 5.0
+**🌐LINK:** [Conquering Responsive Design](https://conquering-responsive-design.netlify.app/flexbox3.html) 0.5
 
 ## Day 005: April 23—2020
 
@@ -54,7 +62,7 @@ IE `width: min(500px, 70%)` Whichever is the *smallest* of the 2 values will set
 
 **🤔LEARNINGS:** Flexbox stretches images to the full max-size of the parent container. This can be fixed by wrapping them in a div or using `align-self: flex-start;` on the image to over-ride the stretching. Flex widths, as long as all childrens widths are less than 100% they can be spaced out using `justify-content: space-between` If they are all 100% (like by default) they will compete for all the available space.
 
-**🌐LINK:** [Conquering Responsive Design](https://conquering-responsive-design.netlify.app/day009.html) 4.0
+**🌐LINK:** [Conquering Responsive Design](https://conquering-responsive-design.netlify.app/day009.html) 0.4
 
 ## Day 003: April 21—2020
 
@@ -69,7 +77,7 @@ Continued with Week 2 of Kevin Powells Conquering Responsive Course, bringin in 
 Learnin' about CSS COMBINATORS: IE to select an adjacent sibling with the same class:
 `.flexbox__text + .flexbox__text {}`
 
-**🌐LINK:** [Conquering Responsive Design](https://conquering-responsive-design.netlify.app/) 3.0
+**🌐LINK:** [Conquering Responsive Design](https://conquering-responsive-design.netlify.app/) 0.3
 
 ## Day 002: April 20—2020
 
@@ -77,7 +85,7 @@ Learnin' about CSS COMBINATORS: IE to select an adjacent sibling with the same c
 
 **🤔LEARNINGS:** Slide out menu can be made from pure CSS! No JS needed. Fixing menu to bottom of the screen on mobile is good for usablity. [Font-awesome](https://fontawesome.com/icons?d=gallery) has a whole bunch of SVG icons now.
 
-**🌐LINK:** [Conquering Responsive Design](https://web.archive.org/web/20200420223551/https://conquering-responsive-design.netlify.app/) 2.0
+**🌐LINK:** [Conquering Responsive Design](https://web.archive.org/web/20200420223551/https://conquering-responsive-design.netlify.app/) 0.2
 
 ## Day 001: April 19—2020
 
@@ -99,4 +107,4 @@ Learnin' about CSS COMBINATORS: IE to select an adjacent sibling with the same c
 
 Experimented with a fun animated hover state on the button. Also set up this git repo and learning how to write markdown!
 
-**🌐LINK:** [Conquering Responsive Design](https://github.com/rzzldzzldesign/conquering-responsive-design/commit/d52e3b2597a4e50571a3b96a4585da91509e32c1) 1.0
+**🌐LINK:** [Conquering Responsive Design](https://github.com/rzzldzzldesign/conquering-responsive-design/commit/d52e3b2597a4e50571a3b96a4585da91509e32c1) 0.1
