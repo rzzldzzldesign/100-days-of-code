@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 008: April 26—2020
+
+**💅PROGRESS:** Found a really awesome job to apply for with [Mobi2Go](https://www.mobi2go.com/) so went hard on testing out the platform, settin gup a store for my client Viva Mexico and expermented with custom styling using LESS.
+
+**🤔LEARNINGS:** LESS is very similar to SASS! Mobi2Go is awesome and I want the job! Going to tweak where I got to today, tomorrow, then apply for the job! Wooop!
+
+**🌐LINK:** [VIVA! MEXICO ONLINE](https://www.mobi2go.com/)
+
 ## Day 007: April 25—2020
 
 **💅PROGRESS:** Day 12 of [Kevin Powell](https://www.kevinpowell.co/)'s course. Made another fairly simple responsive layout from scratch using flexbox.
