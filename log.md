@@ -4,7 +4,7 @@
 
 **💅PROGRESS:** Finished off custom LESS styles for the Viva Mexico Mobi2Go ordering system! Then applied for the job :)
 
-**🤔LEARNINGS:** How to target specific classes between desktop and mobile by nesting selecters in LESS.
+**🤔LEARNINGS:** How to target specific classes between desktop and mobile by nesting selectors in LESS.
 
 **🌐LINK:** [VIVA! MEXICO ONLINE](https://vivamexicoleftbank.mobi2go.com/)
 
