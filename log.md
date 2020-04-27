@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 009: April 27—2020
+
+**💅PROGRESS:** Finished off custom LESS styles for the Viva Mexico Mobi2Go ordering system! Then applied for the job :)
+
+**🤔LEARNINGS:** How to target specific classes between desktop and mobile by nesting selecters in LESS.
+
+**🌐LINK:** [VIVA! MEXICO ONLINE](https://vivamexicoleftbank.mobi2go.com/)
+
 ## Day 008: April 26—2020
 
 **💅PROGRESS:** Found a really awesome job to apply for with [Mobi2Go](https://www.mobi2go.com/) so went hard on testing out the platform, setting up a store for my client Viva Mexico and expermented with custom styling using LESS.
