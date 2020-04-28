@@ -1,5 +1,27 @@
 # 100 Days Of Code - Log
 
+## Day 010: April 28—2020
+
+**💅PROGRESS:** Started week 3 of Kevins course. I'm pretty familiar with media queries already so gonna expand my learning to [Wes Boss' CSS GRID COURSE!](https://cssgrid.io/) Been wanting to learn grid properly for a while so excited to dive into this one!
+
+**🤔LEARNINGS:** [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/) is rad! The dev tools are beautiful and their grid inspector is awesome.
+
+Difference between EXPLICIT and IMPLICIT GRID. 
+
+EXPLICIT grid is the one defined by you the developer directly. Shown in the dev tools by a *dashed line.* 
+
+IMPLICIT is any additional elements that do not fit the defined grid and flow on outside. Shown as a *dotted line.*
+
+`grid-template-row/column: Xsize;` Explicitly defines a track size.
+
+`grid-auto-row/column: Xsize` Defines the default size for and Implicity sized element.
+
+By default the Columns are defined Implicity and extra elements flow onto additional Implicit Rows.
+
+`grid-auto-flow: row(default) / column` Defines how Implicit elements are added to the grid, similar to `flex-direction` with flexbox.
+
+**🌐LINK:** [GIT COMMIT FOR THE COURSE LEARNIN'S](https://github.com/rzzldzzldesign/css-grid/commit/d15cca9eb4396e3823ab993b0521c5fc6be5dc99)
+
 ## Day 009: April 27—2020
 
 **💅PROGRESS:** Finished off custom LESS styles for the Viva Mexico Mobi2Go ordering system! Then applied for the job :)
