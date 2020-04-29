@@ -24,9 +24,9 @@ IMPLICIT is any additional elements that do not fit the defined grid and flow on
 
 `grid-template-row/column: Xsize;` Explicitly defines a track size.
 
-`grid-auto-row/column: Xsize` Defines the default size for and Implicity sized element.
+`grid-auto-row/column: Xsize` Defines the default size for an Implicitly sized element.
 
-By default the Columns are defined Implicity and extra elements flow onto additional Implicit Rows.
+By default the Columns are defined Implicitly and extra elements flow onto additional Implicit Rows.
 
 `grid-auto-flow: row(default) / column` Defines how Implicit elements are added to the grid, similar to `flex-direction` with flexbox.
 
