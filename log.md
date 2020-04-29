@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+## Day 011: April 29—2020
+
+**💅PROGRESS:** Continued with Kevins course with some media queriy things. Then onto more #GRIDDYUP with [Wes Boss' CSS GRID COURSE](https://cssgrid.io/), did a lot today and took extensive notes on CSS Grid Fundamentals.
+
+**🤔LEARNINGS:** CSS GRID IS AWESOME! Best thing out mate. Made a simple fully responsive grid layout using `grid-template-columns: repeat(auto-fit, minmax(300px, 1fr))` It's so cool!
+
+[Best breakpoints](https://www.freecodecamp.org/news/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862/) for most common devices are `600px 900px 1200px` and `1800px` and up for larger screens.
+
+**🌐LINK:** [NO MEDIA QUERY RESPONSIVE GRID](https://conquering-responsive-design.netlify.app/grid1.html)
+
 ## Day 010: April 28—2020
 
 **💅PROGRESS:** Started week 3 of Kevins course. I'm pretty familiar with media queries already so gonna expand my learning to [Wes Boss' CSS GRID COURSE!](https://cssgrid.io/) Been wanting to learn grid properly for a while so excited to dive into this one!
