@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 012: April 30—2020
+
+**💅PROGRESS:** Rewrote the LESS code for the Viva Mexico Mobi2Go site so its a bit cleaner and uses less `!important` tags hahaaa. Layed out the Item Titles and Prices nicely using flexbox and increased some of the hierarchy on mobile.
+
+Day 17 from Kevins course. Real short one about using the `<meta viewport=x>` tag in the head to make sure it resizes properly on mobile.
+
+Challenge 20 from [Wes Boss' CSS GRID COURSE](https://cssgrid.io/). Making an image gallery using css grid.
+
+**🤔LEARNINGS:** CSS GRID: grid elemenst can be overlayed over each other without using `postion: absolute` by simply setting their `grid-column/row` settngs to the same position. Super nice :)
+
+**🌐LINK:** [VIVA! MEXICO BETTER](https://vivamexicoleftbank.mobi2go.com/) / [CSS GRID COMMIT](https://github.com/rzzldzzldesign/css-grid/commit/2ce9cfc232291dbfb5226c30c57159e665e856a5)
+
 ## Day 011: April 29—2020
 
 **💅PROGRESS:** Continued with Kevins course with some media query things. Then onto more #GRIDDYUP with [Wes Boss' CSS GRID COURSE](https://cssgrid.io/), did a lot today and took extensive notes on CSS Grid Fundamentals.
