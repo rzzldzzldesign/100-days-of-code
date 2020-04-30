@@ -2,7 +2,7 @@
 
 ## Day 011: April 29—2020
 
-**💅PROGRESS:** Continued with Kevins course with some media queriy things. Then onto more #GRIDDYUP with [Wes Boss' CSS GRID COURSE](https://cssgrid.io/), did a lot today and took extensive notes on CSS Grid Fundamentals.
+**💅PROGRESS:** Continued with Kevins course with some media query things. Then onto more #GRIDDYUP with [Wes Boss' CSS GRID COURSE](https://cssgrid.io/), did a lot today and took extensive notes on CSS Grid Fundamentals.
 
 **🤔LEARNINGS:** CSS GRID IS AWESOME! Best thing out mate. Made a simple fully responsive grid layout using `grid-template-columns: repeat(auto-fit, minmax(300px, 1fr))` It's so cool!
 
