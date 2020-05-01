@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+## Day 013: May 01—2020
+
+**💅PROGRESS:** Built a 1.0 version of a site for Ashs project **twofiveseven.** Tried out using CSS Grid for the first time in the wild and it was great!
+
+**🤔LEARNINGS:** Managed to import the [calculator tool](https://app.convertcalculator.co/to/rBWJQs6tWzqCsmnyC) from the site and style it on my own page. Overwriting the calculators own styling using very specific css classes is working pretty good for now.
+
+Also continues with the CSS Grid course and learned the diffferent use cases for flexbox vs grid.
+
+**🌐LINK:** [TWOFIVESEVEN](https://twofiveseven.netlify.app/)
+
 ## Day 012: April 30—2020
 
 **💅PROGRESS:** Rewrote the LESS code for the Viva Mexico Mobi2Go site so its a bit cleaner and uses less `!important` tags hahaaa. Layed out the Item Titles and Prices nicely using flexbox and increased some of the hierarchy on mobile.
@@ -28,9 +38,9 @@ Challenge 20 from [Wes Boss' CSS GRID COURSE](https://cssgrid.io/). Making an im
 
 **🤔LEARNINGS:** [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/) is rad! The dev tools are beautiful and their grid inspector is awesome.
 
-Difference between EXPLICIT and IMPLICIT GRID. 
+Difference between EXPLICIT and IMPLICIT GRID.
 
-EXPLICIT grid is the one defined by you the developer directly. Shown in the dev tools by a *dashed line.* 
+EXPLICIT grid is the one defined by you the developer directly. Shown in the dev tools by a *dashed line.*
 
 IMPLICIT is any additional elements that do not fit the defined grid and flow on outside. Shown as a *dotted line.*
 
