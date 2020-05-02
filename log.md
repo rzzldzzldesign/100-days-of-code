@@ -2,9 +2,9 @@
 
 ## Day 014: May 02
 
-**💅PROGRESS:** Finished Challenge 22 of [Wes Boss' CSS GRID COURSE](https://cssgrid.io/) recreating Code Pens layout using grid. Taking a short day today to recover and get away from the screen for a while!
+**💅PROGRESS:** Finished Challenge 22 of [Wes Boss' CSS GRID COURSE](https://cssgrid.io/) recreating Code Pens layout using grid. Also finished day 19 of Kevins responsive course building a responsive navigation menu. Taking a short day today to recover and get away from the screen for a while!
 
-**🤔LEARNINGS:** CSS Grid is super flexible and can be used to achive pretty complicated layouts with ease!
+**🤔LEARNINGS:** CSS Grid is super flexible and can be used to achieve complicated layouts with ease!
 
 **🌐LINK:** [Recreating CodePen](https://github.com/rzzldzzldesign/css-grid/commit/b35b4d65ede7ec7596b788a49a460f06baabeb8d)
 
