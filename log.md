@@ -1,6 +1,14 @@
 # 100 Days Of Code - Log
 
-## Day 013: May 01—2020
+## Day 014: May 02
+
+**💅PROGRESS:** Finished Challenge 22 of [Wes Boss' CSS GRID COURSE](https://cssgrid.io/) recreating Code Pens layout using grid. Taking a short day today to recover and get away from the screen for a while!
+
+**🤔LEARNINGS:** CSS Grid is super flexible and can be used to achive pretty complicated layouts with ease!
+
+**🌐LINK:** [Recreating CodePen](https://github.com/rzzldzzldesign/css-grid/commit/b35b4d65ede7ec7596b788a49a460f06baabeb8d)
+
+## Day 013: May 01
 
 **💅PROGRESS:** Built a 1.0 version of a site for Ashs project **twofiveseven.** Tried out using CSS Grid for the first time in the wild and it was great!
 
@@ -10,7 +18,7 @@ Also continues with the CSS Grid course and learned the diffferent use cases for
 
 **🌐LINK:** [TWOFIVESEVEN](https://twofiveseven.netlify.app/)
 
-## Day 012: April 30—2020
+## Day 012: April 30
 
 **💅PROGRESS:** Rewrote the LESS code for the Viva Mexico Mobi2Go site so its a bit cleaner and uses less `!important` tags hahaaa. Layed out the Item Titles and Prices nicely using flexbox and increased some of the hierarchy on mobile.
 
@@ -22,7 +30,7 @@ Challenge 20 from [Wes Boss' CSS GRID COURSE](https://cssgrid.io/). Making an im
 
 **🌐LINK:** [VIVA! MEXICO BETTER](https://vivamexicoleftbank.mobi2go.com/) / [CSS GRID COMMIT](https://github.com/rzzldzzldesign/css-grid/commit/2ce9cfc232291dbfb5226c30c57159e665e856a5)
 
-## Day 011: April 29—2020
+## Day 011: April 29
 
 **💅PROGRESS:** Continued with Kevins course with some media query things. Then onto more #GRIDDYUP with [Wes Boss' CSS GRID COURSE](https://cssgrid.io/), did a lot today and took extensive notes on CSS Grid Fundamentals.
 
@@ -32,7 +40,7 @@ Challenge 20 from [Wes Boss' CSS GRID COURSE](https://cssgrid.io/). Making an im
 
 **🌐LINK:** [NO MEDIA QUERY RESPONSIVE GRID](https://conquering-responsive-design.netlify.app/grid1.html)
 
-## Day 010: April 28—2020
+## Day 010: April 28
 
 **💅PROGRESS:** Started week 3 of Kevins course. I'm pretty familiar with media queries already so gonna expand my learning to [Wes Boss' CSS GRID COURSE!](https://cssgrid.io/) Been wanting to learn grid properly for a while so excited to dive into this one!
 
@@ -54,7 +62,7 @@ By default the Columns are defined Implicitly and extra elements flow onto addit
 
 **🌐LINK:** [GIT COMMIT FOR THE COURSE LEARNIN'S](https://github.com/rzzldzzldesign/css-grid/commit/d15cca9eb4396e3823ab993b0521c5fc6be5dc99)
 
-## Day 009: April 27—2020
+## Day 009: April 27
 
 **💅PROGRESS:** Finished off custom LESS styles for the Viva Mexico Mobi2Go ordering system! Then applied for the job :)
 
@@ -62,7 +70,7 @@ By default the Columns are defined Implicitly and extra elements flow onto addit
 
 **🌐LINK:** [VIVA! MEXICO ONLINE](https://vivamexicoleftbank.mobi2go.com/)
 
-## Day 008: April 26—2020
+## Day 008: April 26
 
 **💅PROGRESS:** Found a really awesome job to apply for with [Mobi2Go](https://www.mobi2go.com/) so went hard on testing out the platform, setting up a store for my client Viva Mexico and expermented with custom styling using LESS.
 
@@ -70,7 +78,7 @@ By default the Columns are defined Implicitly and extra elements flow onto addit
 
 **🌐LINK:** [VIVA! MEXICO ONLINE](https://vivamexicoleftbank.mobi2go.com/)
 
-## Day 007: April 25—2020
+## Day 007: April 25
 
 **💅PROGRESS:** Day 12 of [Kevin Powell](https://www.kevinpowell.co/)'s course. Made another fairly simple responsive layout from scratch using flexbox.
 
@@ -78,7 +86,7 @@ By default the Columns are defined Implicitly and extra elements flow onto addit
 
 **🌐LINK:** [Conquering Responsive Design](https://conquering-responsive-design.netlify.app/flexbox4.html) 5.0
 
-## Day 006: April 24—2020
+## Day 006: April 24
 
 **💅PROGRESS:** Day 11 and flexbox challenge 3 of [Kevin Powell](https://www.kevinpowell.co/)'s course. Added a simple navigation and used flexbox to push two sub navigations to either side of the container.
 
