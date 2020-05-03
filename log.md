@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 015: May 03
+
+**💅PROGRESS:** Finished [Wes Boss' CSS GRID COURSE](https://cssgrid.io/)! Woooop, learned so much about the fundamentals of grid and can see myself using it all the damn time now! So many use cases.
+
+**🤔LEARNINGS:** Got the fundamentals down, now need to solidify the learnin's by building some sites with it.
+
+**🌐LINK:** [CSS GRID DONE!](https://github.com/rzzldzzldesign/css-grid)
+
 ## Day 014: May 02
 
 **💅PROGRESS:** Finished Challenge 22 of [Wes Boss' CSS GRID COURSE](https://cssgrid.io/) recreating Code Pens layout using grid. Also finished day 19 of Kevins responsive course building a responsive navigation menu. Taking a short day today to recover and get away from the screen for a while!
