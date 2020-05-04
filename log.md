@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+## Day 016: May 04
+
+**💅PROGRESS:** Totes finished [Kevin Powell](https://www.kevinpowell.co/)'s course on Conquering Reponsive Design!
+
+**🤔LEARNINGS:** The web is inherently responsive, its only when we start adding fixed widths to things that it breaks. Mobile first is the way to go. Start at minimun size then add complexity as the viewport gets wider.
+
+Built a full repsonsive site for my lil' brothers business, mobile first!
+
+**🌐LINK:** [HEN'S HIATUS HOT WAX](https://hens-hiatus-hot-wax.netlify.app/)
+
 ## Day 015: May 03
 
 **💅PROGRESS:** Finished [Wes Boss' CSS GRID COURSE](https://cssgrid.io/)! Woooop, learned so much about the fundamentals of grid and can see myself using it all the damn time now! So many use cases.
