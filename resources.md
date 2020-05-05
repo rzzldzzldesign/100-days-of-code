@@ -40,7 +40,7 @@
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
-## Day xxx: May xx—2020
+## Day xxx: May xx
 
 **💅PROGRESS:**
 

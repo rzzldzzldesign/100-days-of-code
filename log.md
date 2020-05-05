@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 017: May 05
+
+**💅PROGRESS:** Added a pop up modal window to the twofiveseven site. Spent a very frustrating morning trying to build the site in Gatsby only to get to the point of loading the calculator and not knowing how. Need to take it back to basics and learn it from the ground up.
+
+**🤔LEARNINGS:** Coded a modal window from scratch in vanilla JS, so that was a first :)
+
+**🌐LINK:** [twofiveseven](https://twofiveseven.netlify.app/)
+
 ## Day 016: May 04
 
 **💅PROGRESS:** Totes finished [Kevin Powell](https://www.kevinpowell.co/)'s course on Conquering Reponsive Design!
