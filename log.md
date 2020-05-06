@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 018: May 06
+
+**💅PROGRESS:** Built a #100DAYSOFCODE Visualizer site in CSS Grid to practise and make a more visual version of this log. Thought it might be a bit more interesting to look at :) Also reworked the Hens Hiatus Site and made a post about it.
+
+**🤔LEARNINGS:** Got some more practise in with grids auto-fit function.
+
+**🌐LINK:** [100-DAYS-VISUALIZER](https://100-days-visualizer.netlify.app/) — [HEN'S HIATUS HOT WAX](https://hens-hiatus-hot-wax.netlify.app/)
+
 ## Day 017: May 05
 
 **💅PROGRESS:** Added a pop up modal window to the twofiveseven site. Spent a very frustrating morning trying to build the site in Gatsby only to get to the point of loading the calculator and not knowing how. Need to take it back to basics and learn it from the ground up.
