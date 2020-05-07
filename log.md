@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 019: May 07
+
+**💅PROGRESS:** Messed around with the Javascript on twofiveseven and got the calculator to load on click and unmount on close! Bloody miracle. ALSO SECRET THING HAPPENED, COULD BE A BIG DEAL :)
+
+**🤔LEARNINGS:** Learned a little about async functions but defo kind of fluked it so need to dive deeper to get what happening!
+
+**🌐LINK:** [twofiveseven](https://twofiveseven.netlify.app/)
+
 ## Day 018: May 06
 
 **💅PROGRESS:** Built a #100DAYSOFCODE Visualizer site in CSS Grid to practise and make a more visual version of this log. Thought it might be a bit more interesting to look at :) Also reworked the Hens Hiatus Site and made a post about it.
