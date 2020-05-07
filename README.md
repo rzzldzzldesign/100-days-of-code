@@ -1,5 +1,7 @@
 # I've joined the #100DaysOfCode Challenge
 
+Check out my [100 DAYS VISUALIZER](https://100-days-visualizer.netlify.app/)
+
 ## Contents
 
 * [Rules](rules.md)
