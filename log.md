@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 020: May 08
+
+**💅PROGRESS:** Only went and got a new job didn't I! Yay for Mobi2Go! Also added the partners page to 257 site.
+
+**🤔LEARNINGS:** Used grid with auto-fit and minmax again to make a responsive grid layout. Comin in handy all the damn tmie now.
+
+**🌐LINK:** [twofiveseven](https://twofiveseven.netlify.app/partners.html)
+
 ## Day 019: May 07
 
 **💅PROGRESS:** Messed around with the Javascript on twofiveseven and got the calculator to load on click and unmount on close! Bloody miracle. ALSO SECRET THING HAPPENED, COULD BE A BIG DEAL :)
