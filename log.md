@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 021: May 09
+
+**💅PROGRESS:** Added content to 257 site.
+
+**🤔LEARNINGS:** Playing with grid some more to lay out text and it looks slick af :)
+
+**🌐LINK:** [twofiveseven](https://twofiveseven.netlify.app/partners.html)
+
 ## Day 020: May 08
 
 **💅PROGRESS:** Only went and got a new job didn't I! Yay for Mobi2Go! Also added the partners page to 257 site.
