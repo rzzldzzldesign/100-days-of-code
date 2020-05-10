@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 022: May 10
+
+**💅PROGRESS:** Added a bunch of rendered imgs to the 257 site.
+
+**🤔LEARNINGS:** Played with fixed background images and some flexed psedo elements and negative margins to make a pretty slick and modern looking vibe :)
+
+**🌐LINK:** [twofiveseven](https://twofiveseven.netlify.app/partners.html)
+
 ## Day 021: May 09
 
 **💅PROGRESS:** Added content to 257 site.
