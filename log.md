@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 023: May 11
+
+**💅PROGRESS:** Started day one at Mobi2Go. Got a Saas job writing LESS oh so techno! Gonna have to on pause possibly to avaoid burn out as I'm not used to coding for 8 hours a day for a job and certanily not doing another hour after that! Fro the best thought, pace yourself and stay healthy :)
+
+**🤔LEARNINGS:** Rest is as important as grind and hustle.
+
+**🌐LINK:** Nah bowl.
+
 ## Day 022: May 10
 
 **💅PROGRESS:** Added a bunch of rendered imgs to the 257 site.
