@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+## Day 024: May 12
+
+**💅PROGRESS:** I'm just gonna count my work days because I'm learning heaps anyways!
+
+**🤔LEARNINGS:** From David: Aim to avoid margins if you can as they are collapsable and therefore hard to debug. Only use in *one direction* if you do use them. Use padding instead on the parent element. If the parent is there for layout it should control it!
+
+Also Learned HEAPS about exporting and optimising SVGs. The more points the bigger the file of course. Use imageoptim after exporting from illustrator to further condense the code. Awesome tool for creating inline SVGs [here](https://yoksel.github.io/url-encoder/) Storke can be cahne with `stroke-width="x"` in the code without the pixel `px`
+
+**🌐LINK:** [First Project: Streetwise Coffee!](https://streetwisecoffee.mobi2go.com/)
+
 ## Day 023: May 11
 
 **💅PROGRESS:** Started day one at Mobi2Go. Got a Saas job writing LESS oh so techno! Gonna have to on pause possibly to avaoid burn out as I'm not used to coding for 8 hours a day for a job and certanily not doing another hour after that! Fro the best thought, pace yourself and stay healthy :)
