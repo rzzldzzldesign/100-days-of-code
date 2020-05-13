@@ -4,16 +4,21 @@
 
 **💅PROGRESS:** QUARTER DONE :) Whew, got deep into the weeds of making a Mobi site work across desktop and mobile devices once it has been embedded into a users site. Some rules from the site interfere with the embedded code.
 
-**🤔LEARNINGS:** Learning how to target specific data elements has been interesting. To fix the width of the outer embed element you can use `.code-block { width:x;}` to make sure all the content fits.
+**🤔LEARNINGS:** Learning how to target specific data elements has been interesting.
+
+Once a site is embedded the width of the outer element can be targetedusing `.code-block { width:x;}` to make sure all the content fits.
 
 Remember about using query strings on the url for different modes:
 
 `?live_preview` = Live Preview
+
 `?headoffice_theme=preview` = Head Office Preview
+
 `?ui=mobile-embed` = Mobile Embedded Version
+
 `?ui=web-embed` = Web Embedded Version
 
-**🌐LINK:** [STREETWISE COFFE EMBEDDED]
+**🌐LINK:** [STREETWISE COFFEE EMBEDDED](https://www.streetwisecoffee.co.nz/order-online)
 
 ## Day 024: May 12
 
@@ -21,7 +26,7 @@ Remember about using query strings on the url for different modes:
 
 **🤔LEARNINGS:** From David: Aim to avoid margins if you can as they are collapsable and therefore hard to debug. Only use in _one direction_ if you do use them. Use padding instead on the parent element. If the parent is there for layout it should control it!
 
-Also Learned HEAPS about exporting and optimising SVGs. The more points the bigger the file of course. Use imageoptim after exporting from illustrator to further condense the code. Awesome tool for creating inline SVGs [here](https://yoksel.github.io/url-encoder/) Storke can be cahne with `stroke-width="x"` in the code without the pixel `px`
+Also Learned HEAPS about exporting and optimising SVGs. The more points the bigger the file of course. Use imageoptim after exporting from illustrator to further condense the code. Awesome tool for creating inline SVGs [here](https://yoksel.github.io/url-encoder/) Stroke can be changed with `stroke-width="x"` in the SVG code without the pixel `px`
 
 **🌐LINK:** [First Project: Streetwise Coffee!](https://streetwisecoffee.mobi2go.com/)
 
