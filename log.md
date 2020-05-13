@@ -1,10 +1,25 @@
 # 100 Days Of Code - Log
 
+## Day 025: May 13
+
+**💅PROGRESS:** QUARTER DONE :) Whew, got deep into the weeds of making a Mobi site work across desktop and mobile devices once it has been embedded into a users site. Some rules from the site interfere with the embedded code.
+
+**🤔LEARNINGS:** Learning how to target specific data elements has been interesting. To fix the width of the outer embed element you can use `.code-block { width:x;}` to make sure all the content fits.
+
+Remember about using query strings on the url for different modes:
+
+`?live_preview` = Live Preview
+`?headoffice_theme=preview` = Head Office Preview
+`?ui=mobile-embed` = Mobile Embedded Version
+`?ui=web-embed` = Web Embedded Version
+
+**🌐LINK:** [STREETWISE COFFE EMBEDDED]
+
 ## Day 024: May 12
 
 **💅PROGRESS:** I'm just gonna count my work days because I'm learning heaps anyways!
 
-**🤔LEARNINGS:** From David: Aim to avoid margins if you can as they are collapsable and therefore hard to debug. Only use in *one direction* if you do use them. Use padding instead on the parent element. If the parent is there for layout it should control it!
+**🤔LEARNINGS:** From David: Aim to avoid margins if you can as they are collapsable and therefore hard to debug. Only use in _one direction_ if you do use them. Use padding instead on the parent element. If the parent is there for layout it should control it!
 
 Also Learned HEAPS about exporting and optimising SVGs. The more points the bigger the file of course. Use imageoptim after exporting from illustrator to further condense the code. Awesome tool for creating inline SVGs [here](https://yoksel.github.io/url-encoder/) Storke can be cahne with `stroke-width="x"` in the code without the pixel `px`
 
@@ -132,9 +147,9 @@ Challenge 20 from [Wes Boss' CSS GRID COURSE](https://cssgrid.io/). Making an im
 
 Difference between EXPLICIT and IMPLICIT GRID.
 
-EXPLICIT grid is the one defined by you the developer directly. Shown in the dev tools by a *dashed line.*
+EXPLICIT grid is the one defined by you the developer directly. Shown in the dev tools by a _dashed line._
 
-IMPLICIT is any additional elements that do not fit the defined grid and flow on outside. Shown as a *dotted line.*
+IMPLICIT is any additional elements that do not fit the defined grid and flow on outside. Shown as a _dotted line._
 
 `grid-template-row/column: Xsize;` Explicitly defines a track size.
 
@@ -210,9 +225,9 @@ Default: `flex: 1 1 XXpx` grow: 1 / shrink: 1 / size
 #### Min() Max() + Clamp()
 
 `min(x, y)` Use to set variable sizes on elements within a range of values.
-IE `width: min(500px, 70%)` Whichever is the *smallest* of the 2 values will set the width. Similar to writing `width: 70%; max-width: 500px;` but all in one line.
+IE `width: min(500px, 70%)` Whichever is the _smallest_ of the 2 values will set the width. Similar to writing `width: 70%; max-width: 500px;` but all in one line.
 
-`max(x, y)` Similar but computes whichever value is *larger* between the two. Can be used with three values also but gets confusing.
+`max(x, y)` Similar but computes whichever value is _larger_ between the two. Can be used with three values also but gets confusing.
 
 `clamp(x, y, z)` Takes three values: x: minimum value, y: ideal value, z: maximum value. Could be an issue when used for widths due to mobile screen sizes but experiment with for font-sizes!
 
@@ -263,9 +278,8 @@ Learnin' about CSS COMBINATORS: IE to select an adjacent sibling with the same c
 
 **🤔LEARNINGS:** The web is inherently responsive! Learned about implementing variable fonts for the first time:
 
->This dynamic typography uses continuous ranges of styles, offering all the weights between 100 and 900 on a page, and responsively varying the weight based on some conditions.
->To request a range of a variable font axis, join the 2 values with `..`
->[LINK](https://developers.google.com/fonts/docs/css2#axis_ranges)
+> This dynamic typography uses continuous ranges of styles, offering all the weights between 100 and 900 on a page, and responsively varying the weight based on some conditions.
+> To request a range of a variable font axis, join the 2 values with `..` >[LINK](https://developers.google.com/fonts/docs/css2#axis_ranges)
 
 Experimented with a fun animated hover state on the button. Also set up this git repo and learning how to write markdown!
 
