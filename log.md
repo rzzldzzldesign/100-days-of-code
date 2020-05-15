@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 026: May 14
+
+**💅PROGRESS:** Built a new storefront for a falafel joint, used some basic resets, added their fonts and tidied up to make it look good. Started on a new storefront for a burger joint with more complexity.
+
+**🤔LEARNINGS:** UI—If there is a field then people will use it and they may not use it the way you intended. Keep it to a minimum! How to load fonts from the mobi servers using @fontface. Make sure the name and weigths are the same as used on the site it is to be embedded on. You can catch fonts from websites in the network tab of the dev tools!
+
+**🌐LINK:** Two sites but none live so no links today.
+
 ## Day 025: May 13
 
 **💅PROGRESS:** QUARTER DONE :) Whew, got deep into the weeds of making a Mobi site work across desktop and mobile devices once it has been embedded into a users site. Some rules from the site interfere with the embedded code.
