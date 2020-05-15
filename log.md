@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 027: May 15
+
+**💅PROGRESS:** First week done at ym new job!
+
+**🤔LEARNINGS:** Hells nah I'm celebrating!
+
+**🌐LINK:** Link yoself
+
 ## Day 026: May 14
 
 **💅PROGRESS:** Built a new storefront for a falafel joint, used some basic resets, added their fonts and tidied up to make it look good. Started on a new storefront for a burger joint with more complexity.
