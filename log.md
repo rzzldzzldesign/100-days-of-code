@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 028: May 16
+
+**💅PROGRESS:** Updated twofiveseven partners section with new logos. Did some lessons from superhi and almost got the typing on text effect working, having some issues with the intersection observer function.
+
+**🤔LEARNINGS:** Animating in text is super effective, now, get it working!
+
+**🌐LINK:** [twofiveseven](https://twofiveseven.netlify.app/partners.html)
+
 ## Day 027: May 15
 
 **💅PROGRESS:** First week done at ym new job!
