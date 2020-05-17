@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 029: May 17
+
+**💅PROGRESS:** Tried to get the intersection obsevrer stuff working on a test site but still buggin' out. Updated the content for 257 and fixed the bug on mobile with loading the calculator multiple times.
+
+**🤔LEARNINGS:** Still frustrated with intersection observer, need to take some ditance and come back at it. It did start to work kind of when I got a live test version online which was unusual.
+
+**🌐LINK:** Nah bowl.
+
 ## Day 028: May 16
 
 **💅PROGRESS:** Updated twofiveseven partners section with new logos. Did some lessons from superhi and almost got the typing on text effect working, having some issues with the intersection observer function.
