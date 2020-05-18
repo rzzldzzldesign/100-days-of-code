@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 030: May 18
+
+**💅PROGRESS:** Week 2 @ Mobi2go! Finished of one store and made another using an existing code block as a base.
+
+**🤔LEARNINGS:** Getting better at targeting things with descendant selectors and such.
+
+**🌐LINK:** Not today.
+
 ## Day 029: May 17
 
 **💅PROGRESS:** Tried to get the intersection obsevrer stuff working on a test site but still buggin' out. Updated the content for 257 and fixed the bug on mobile with loading the calculator multiple times.
