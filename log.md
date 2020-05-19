@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 031: May 19
+
+**💅PROGRESS:** More custom storefronts for Mobi2Go. Frustrating after noon but getting the hang of overwriting the core styles and making changes.
+
+**🤔LEARNINGS:** Targeting with CSS. Using mixins in LESS vs SCSS, slightly different syntax but work the same way.
+
+**🌐LINK:** Again nothing live.
+
 ## Day 030: May 18
 
 **💅PROGRESS:** Week 2 @ Mobi2go! Finished of one store and made another using an existing code block as a base.
