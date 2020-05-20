@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 032: May 20
+
+**💅PROGRESS:** Another storefront desing done and crushed some bugs on others :)
+
+**🤔LEARNINGS:** Getting better at responsive grid layouts using minmax and auto-fit.
+
+**🌐LINK:** All will be available soon.
+
 ## Day 031: May 19
 
 **💅PROGRESS:** More custom storefronts for Mobi2Go. Frustrating after noon but getting the hang of overwriting the core styles and making changes.
