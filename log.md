@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 033: May 21
+
+**💅PROGRESS:** Massive day today, set up a bunch of stores crushed a bunch of bugs, a bit burned out right now so not too many notes today.
+
+**🤔LEARNINGS:** Have to remember to take a step back everyonce in a while, don;t get sucked in and not take breaks as its not sustainable! Still its very all consuming when in the zone 💯 🍖 Hahaa just found out how to put emojis in markdown by happy accident 🍔
+
+**🌐LINK:** Coming soon
+
 ## Day 032: May 20
 
 **💅PROGRESS:** Another storefront desing done and crushed some bugs on others :)
