@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 034: May xx
+
+**💅PROGRESS:** MAD HECTIC WEEK
+
+**🤔LEARNINGS:** TGIFF
+
+**🌐LINK:** IM OUT
+
 ## Day 033: May 21
 
 **💅PROGRESS:** Massive day today, set up a bunch of stores crushed a bunch of bugs, a bit burned out right now so not too many notes today.
