@@ -1,6 +1,46 @@
 # 100 Days Of Code - Log
 
-## Day 034: May xx
+## Day 039: May 27
+
+**💅PROGRESS:** Finally learned how to do the live reloading of storefront designs usin the `?save` query and its amazing.
+
+**🤔LEARNINGS:** No more hitting SAVE every 5 seconds!
+
+**🌐LINK:**
+
+## Day 038: May 26
+
+**💅PROGRESS:** Back on top!
+
+**🤔LEARNINGS:** Emailing with clients directly can lead to some mis-management, go through the onboarding team.
+
+**🌐LINK:**
+
+## Day 037: May 25
+
+**💅PROGRESS:** WEEK 3 Pro Coder :)
+
+**🤔LEARNINGS:** Deep in the weeds, need to be well rested to work well.
+
+**🌐LINK:**
+
+## Day 036: May 24
+
+**💅PROGRESS:** Changed up the text on 257 site and got the final version online!
+
+**🤔LEARNINGS:** Don;t over commit, its exhausting.
+
+**🌐LINK:** [twofiveseven live!](https://twofiveseven.co/)
+
+## Day 035: May 23
+
+**💅PROGRESS:** SATUDAY REST DAY—WAS GETTING BURNED OUT ON THIS
+
+**🤔LEARNINGS:**
+
+**🌐LINK:**
+
+## Day 034: May 22
 
 **💅PROGRESS:** MAD HECTIC WEEK
 
